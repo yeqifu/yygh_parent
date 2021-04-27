@@ -12,13 +12,10 @@
     <artifactId>service_hosp</artifactId>
 
     <dependencies>
-
-
         <dependency>
-            <groupId>com.baomidou</groupId>
-            <artifactId>mybatis-plus-boot-starter</artifactId>
-            <version>3.4.1</version>
-            <scope>compile</scope>
+            <groupId>com.yeqifu</groupId>
+            <artifactId>common_utils</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
     </dependencies>
